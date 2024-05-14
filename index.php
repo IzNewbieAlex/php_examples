@@ -3,7 +3,7 @@
 
 //$date = $_GET['date']; // $_GET супер глобальная переменная
 //echo $kontent;
-
+///ghbdt
 /*try
 {
 	$conn = new PDO("mysql:host=localhost;dbname=myBase1", "root", ""); // подключаемся к серверу
